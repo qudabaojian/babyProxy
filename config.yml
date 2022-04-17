@@ -1,7 +1,7 @@
 host: 0.0.0.0
 port: 9999
 token: 123456 # 这个是你的网页登录口令，使用前请先修改
-webserver: true
+webserver: true # false为命令行
 server:
     - port: "5555"
       ssl: 1
